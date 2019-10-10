@@ -4,6 +4,7 @@ import { RouterModule } from '@angular/router';
 import { appRoutes } from './routes';
 
 import { NgModule } from '@angular/core';
+import { ChartsModule } from 'ng2-charts';
 
 // import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -32,7 +33,8 @@ import { LineChartComponent } from './charts/line-chart/line-chart.component';
   imports: [
     BrowserModule,
     // AppRoutingModule
-    RouterModule.forRoot(appRoutes)
+    RouterModule.forRoot(appRoutes),
+    ChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
