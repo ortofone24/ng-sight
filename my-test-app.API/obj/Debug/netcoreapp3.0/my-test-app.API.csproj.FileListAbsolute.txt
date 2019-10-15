@@ -1,0 +1,10 @@
+C:\Repositories\ng-sight\my-test-app.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Repositories\ng-sight\my-test-app.API\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Repositories\ng-sight\my-test-app.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Repositories\ng-sight\my-test-app.API\bin\Debug\netcoreapp3.0\my-test-app.API.exe
+C:\Repositories\ng-sight\my-test-app.API\obj\Debug\netcoreapp3.0\my-test-app.API.csprojAssemblyReference.cache
+C:\Repositories\ng-sight\my-test-app.API\obj\Debug\netcoreapp3.0\staticwebassets\my-test-app.API.StaticWebAssets.Manifest.cache
+C:\Repositories\ng-sight\my-test-app.API\obj\Debug\netcoreapp3.0\staticwebassets\my-test-app.API.StaticWebAssets.xml
+C:\Repositories\ng-sight\my-test-app.API\obj\Debug\netcoreapp3.0\my-test-app.API.AssemblyInfoInputs.cache
+C:\Repositories\ng-sight\my-test-app.API\obj\Debug\netcoreapp3.0\my-test-app.API.AssemblyInfo.cs
+C:\Repositories\ng-sight\my-test-app.API\obj\Debug\netcoreapp3.0\my-test-app.API.RazorTargetAssemblyInfo.cache
