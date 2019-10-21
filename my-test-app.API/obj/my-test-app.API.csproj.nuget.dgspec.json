@@ -26,7 +26,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/ZQs43SrVc6K6lhjG6hxH5IPi9irOBeDuX8qdEcRhjbEN1vUu15/api": {}
+          "https://nuget.devexpress.com/IoMLqL5Ntkbns3Z2S8zguuGBNmDQND1WGP5Op8KJWFzouqxToB/api": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -43,6 +43,14 @@
         "netcoreapp3.0": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.0.0, )"
             }
